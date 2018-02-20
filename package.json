@@ -38,6 +38,7 @@
         "fs-extra": "^5.0.0",
         "html-minifier": "^3.5.9",
         "iif-cb": "^1.1.0",
+        "marked": "^0.3.15",
         "node-cmdline-parser": "1.0.1",
         "readline-sync": "^1.4.9",
         "recursive-readdir": "^2.2.1",
