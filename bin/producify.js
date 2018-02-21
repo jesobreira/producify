@@ -8,6 +8,8 @@ const tmp = require('tmp');
 
 const lib = require('../lib');
 
+lib.checkForUpdates();
+
 if (cmdline.keyexists('help') || !cmdline.getvalbyindex(2)) {
     lib.showHelp();
 } else {

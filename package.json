@@ -1,6 +1,6 @@
 {
     "name": "producify",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Automatically minify and combine several CSS and Javascript files into only one",
     "main": "./lib/index.js",
     "bin": {
@@ -44,6 +44,7 @@
         "recursive-readdir": "^2.2.1",
         "tmp": "0.0.33",
         "uglify-js-es6": "^2.8.9",
-        "uglifycss": "0.0.27"
+        "uglifycss": "0.0.27",
+        "update-notifier": "^2.3.0"
     }
 }
