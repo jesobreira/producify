@@ -1,4 +1,6 @@
 # Producify
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjesobreira%2Fproducify.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjesobreira%2Fproducify?ref=badge_shield)
+
 
 *Produce Smartierly*
 
@@ -201,3 +203,7 @@ producify.build(origin_folder, target_folder, {
 });
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjesobreira%2Fproducify.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjesobreira%2Fproducify?ref=badge_large)
