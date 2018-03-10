@@ -1,5 +1,5 @@
 # Producify
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjesobreira%2Fproducify.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjesobreira%2Fproducify?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjesobreira%2Fproducify.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjesobreira%2Fproducify?ref=badge_shield) [![Travis](https://travis-ci.org/jesobreira/producify.svg?branch=master)](https://travis-ci.org/jesobreira/producify.svg?branch=master)
 
 
 *Produce Smartierly*
